@@ -13,7 +13,7 @@ The AcademyFlows database resides within a SharePoint Document Library. Data int
 ### Strict Configuration of the `Status` Column
 To force the chronological order of the funnel and apply color psychology, the exact values must be set as follows (including the numbers):
 
-1. `1. Received` *(Grey/Blue Pill)* - Default Value.
+1. `1. Received` *(Grey/Blue Pill)* - Default Value.cd
 2. `2. In Review` *(Yellow Pill)* - Triggers the approval workflow.
 3. `3. Fix` *(Red Pill)* - Requires action from the end-user.
 4. `4. Completed` *(Green Pill)* - End of the process.
